@@ -30,7 +30,6 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 
 ![Manal's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manal-Anis&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Anis&layout=compact&theme=dark)
 
 ---
 
