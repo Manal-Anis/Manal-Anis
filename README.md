@@ -28,9 +28,7 @@ I am a focused **Full Stack Web Developer** dedicated to building clean, functio
 
 ### 📈 GitHub Status
 
-![Manal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manal-Anis&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Anis&layout=compact&theme=dark)
+![Manal's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Manal-Anis&show_icons=true&theme=dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manal-Anis&theme=dracula))
 
 ---
 
